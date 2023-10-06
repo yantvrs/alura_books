@@ -1,3 +1,4 @@
+import './estilo.css'
 import Perfil from '../../imagens/perfil.svg'
 import Sacola from '../../imagens/sacola.svg'
 
